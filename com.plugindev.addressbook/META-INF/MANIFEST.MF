@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Addressbook
+Bundle-SymbolicName: com.plugindev.addressbook;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: PLUGINDEV
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.ui
+Automatic-Module-Name: com.plugindev.addressbook
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
